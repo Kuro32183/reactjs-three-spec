@@ -58,7 +58,7 @@ ReactDOM.render(
     <pointLight position={[0, -10, 0]} intensity={1.5} /> */}
     <Sphere>
       Typescript ReactJs Firebase Python Css NextJs Supabase Html NodeJs TailwindCss MongoDB Django MaterialUi GatsbyJs PostgreSQL Wordpress
-      Sass ChakraUI Javascript Express Prisma Aws PHP MySQL Rails Graphql
+      Sass ChakraUI Javascript Express Prisma Aws PHP MySQL Rails
     </Sphere>
     <OrbitControls />
   </Canvas>,
